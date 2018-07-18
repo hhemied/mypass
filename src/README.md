@@ -1,8 +1,8 @@
-##MyPass Program :
+## MyPass Program :
 
-Environment : Linux, OSX and Windows
+# Environment : GNU/Linux, and maybe OSX and Windows
 
-Ideas:
+### Ideas:
 
 Function:
   -> FUNC to check if the DB file "~/.mypass/.db" is exist or not
